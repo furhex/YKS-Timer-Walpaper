@@ -10,6 +10,7 @@ YKS sınavına kalan günü duvar kağıdı olarak ayarla
 
 ```bash
 curl -o $(echo $HOME)/yks.sh https://raw.githubusercontent.com/Metincloup/YKS-Timer-Walpaper/main/yks.sh
+cd
 chmod +x yks.sh
 ./yks.sh
 ```
