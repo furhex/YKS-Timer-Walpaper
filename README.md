@@ -21,3 +21,10 @@ Eğer i3wm kullanıyorsanız ve otomatik başlamasını istiyorsanız i3 config 
 ```bash
 exec_always --no-startup-id bash $(echo $HOME)/yks.sh
 ```
+# ÖNEMLİ
+
+Bu program sadece [matematik delisi](https://matematikdelisi.com) sitesinden resmi çekiyor.
+Resim ve site bana ait değildir.
+
+## Telif
+Eğer [matematik delisi](https://matematikdelisi.com) ekibi bu scriptin kaldırılmasını belirtirse scripti kaldıracağım. 
