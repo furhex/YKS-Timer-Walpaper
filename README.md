@@ -3,7 +3,7 @@ YKS sınavına kalan günü duvar kağıdı olarak ayarla
 
 ## Gereksinimler
 1. X11 Masaüstü ortamı
-2. Curl
+2. curl
 3. feh
 
 ## Çalıştırma
