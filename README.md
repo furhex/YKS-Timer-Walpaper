@@ -28,3 +28,4 @@ nano .config/i3/config
 ```bash
 exec_always --no-startup-id bash $(echo $HOME)/YKS-Timer-Walpaper-main/yks.sh
 ```
+![image](https://github.com/furhex/YKS-Timer-Walpaper/blob/main/screnshot.png?raw=true)
