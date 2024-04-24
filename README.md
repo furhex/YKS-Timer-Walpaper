@@ -25,7 +25,9 @@ chmod +x yks.sh
 ```
 ## i3wm Otomasyon
 Eğer i3wm kullanıyorsanız ve otomatik başlamasını istiyorsanız i3 config dosyasına şu komutu ekleyin
-
+```bash
+nano /.config/i3/config
+```
 ```bash
 exec_always --no-startup-id bash $(echo $HOME)/YKS-Timer-Walpaper-main/yks.sh
 ```
