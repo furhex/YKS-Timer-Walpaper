@@ -9,7 +9,7 @@ YKS sınavına kalan günü duvar kağıdı olarak ayarla
 ## Çalıştırma
 
 ```bash
-curl -L -o yks_timer.zip https://github.com/furhex/YKS-Timer-Walpaper/archive/refs/heads/main.zipcd
+curl -L -o yks_timer.zip https://github.com/furhex/YKS-Timer-Walpaper/archive/refs/heads/main.zip
 ```
 ```bash
 unzip yks_timer.zip
