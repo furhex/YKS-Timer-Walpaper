@@ -17,7 +17,7 @@ python3 YKS-Timer-Walpaper-main/script.py "$remaining_days"
 
 if [ $(echo $DESKTOP_SESSION) = 'xfce' ]; then
 # xfce için duvar kağıdını ayarlayın
-	xfconf-query -c xfce4-desktop -p $(xfconf-query -c xfce4-desktop -l | grep "workspace0/last-image") -s "$download_folder/image.jpg"
+	xfconf-query -c xfce4-desktop -p $(xfconf-query -c xfce4-desktop -l | grep "workspace0/last-image") -s "wallpaper.png"
 else
 # feh ile duvar kağıdını ayarlayın
 feh --bg-scale "wallpaper.png"
